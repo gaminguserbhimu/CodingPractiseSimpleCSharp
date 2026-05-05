@@ -494,22 +494,7 @@ internal class Program
         }
 
         Console.WriteLine("Output: " + result);
-    }
-
-    public class Class1
-    {
-        public void News()
-        {
-            Console.WriteLine("write yourself");
-        }
-    }
-
-    public class Class2 : Class1
-    {
-        public void News()
-        {
-            Console.WriteLine("This is you");
-        }
+        Console.WriteLine("Hello Git");
     }
 
 
